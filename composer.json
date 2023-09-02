@@ -1,0 +1,15 @@
+{
+    "name": "secgin/arvento-api-library",
+    "description": "Arvento API Library",
+    "autoload": {
+        "psr-4": {
+            "YG\\Arvento\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "secgin"
+        }
+    ],
+    "require": {}
+}
